@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#F5F0EA"/>
+
+  <!-- Decorative background circles -->
+  <circle cx="520" cy="60" r="120" fill="#E8D5C0" opacity="0.4"/>
+  <circle cx="80" cy="340" r="90" fill="#E8D5C0" opacity="0.3"/>
+
+  <!-- Main banner body -->
+  <rect x="40" y="80" width="520" height="240" rx="12" fill="#2A2018"/>
+
+  <!-- Left accent bar -->
+  <rect x="40" y="80" width="8" height="240" rx="4" fill="#C4522A"/>
+
+  <!-- Inner decorative circle (right side) -->
+  <circle cx="470" cy="200" r="95" fill="#3A3020" opacity="0.8"/>
+  <circle cx="470" cy="200" r="75" fill="#C4522A" opacity="0.15"/>
+
+  <!-- Cup illustration (simple geometric) -->
+  <rect x="442" y="182" width="56" height="36" rx="4" fill="#C4522A" opacity="0.7"/>
+  <path d="M442,195 Q432,195 432,207 Q432,218 442,218" stroke="#C4522A" stroke-width="4" fill="none" opacity="0.7"/>
+  <rect x="435" y="218" width="70" height="6" rx="3" fill="#C4522A" opacity="0.5"/>
+  <!-- Steam -->
+  <path d="M458,180 Q454,168 458,158" stroke="#E8C8A0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M470,178 Q466,164 470,152" stroke="#E8C8A0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M482,180 Q478,168 482,158" stroke="#E8C8A0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Text area -->
+  <!-- Tag line -->
+  <rect x="76" y="110" width="55" height="16" rx="8" fill="#C4522A" opacity="0.9"/>
+  <text x="103" y="122" text-anchor="middle" font-family="sans-serif" font-size="9" fill="white" letter-spacing="1">OPEN</text>
+
+  <!-- Main heading -->
+  <rect x="76" y="138" width="280" height="32" rx="4" fill="white" opacity="0.12"/>
+  <text x="86" y="160" font-family="Georgia, serif" font-size="22" fill="white" opacity="0.95" letter-spacing="1">Neko Coffee</text>
+
+  <!-- Sub text lines -->
+  <rect x="76" y="182" width="220" height="12" rx="2" fill="white" opacity="0.2"/>
+  <rect x="76" y="200" width="190" height="12" rx="2" fill="white" opacity="0.15"/>
+  <rect x="76" y="218" width="240" height="12" rx="2" fill="white" opacity="0.15"/>
+
+  <!-- Divider -->
+  <line x1="76" y1="244" x2="220" y2="244" stroke="#C4522A" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- Detail text -->
+  <rect x="76" y="256" width="150" height="10" rx="2" fill="white" opacity="0.2"/>
+  <rect x="76" y="272" width="120" height="10" rx="2" fill="white" opacity="0.15"/>
+
+  <!-- CTA button -->
+  <rect x="76" y="292" width="110" height="28" rx="14" fill="#C4522A"/>
+  <text x="131" y="311" text-anchor="middle" font-family="sans-serif" font-size="11" fill="white" letter-spacing="1">詳しく見る</text>
+
+  <!-- Label -->
+  <text x="300" y="372" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#B0906E" letter-spacing="2">バナー制作</text>
+</svg>
